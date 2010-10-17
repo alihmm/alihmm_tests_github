@@ -1,1 +1,1 @@
-hi, this is first file.
+I promise that git is real easy once you get used to it.
